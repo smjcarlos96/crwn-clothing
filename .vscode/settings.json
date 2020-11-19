@@ -1,4 +1,5 @@
 {
-  "editor.formatOnPaste": true,
-  "editor.formatOnSave": true
+  "scssFormatter.singleQuote": true,
+  "typescript.preferences.quoteStyle": "single",
+  "javascript.preferences.quoteStyle": "single"
 }
